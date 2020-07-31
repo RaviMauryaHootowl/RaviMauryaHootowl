@@ -1,6 +1,6 @@
 # 😀 Hey, Welcome to my Github Page
 
-![Hello](./assets/art.svg)
+![Hello](https://raw.githubusercontent.com/RaviMauryaHootowl/RaviMauryaHootowl/36e7dc145027827acd2b08d005f9ed23a4776a00/assets/art.svg)
 
 ## 😁 Who am I?
 My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'.
