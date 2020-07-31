@@ -1,5 +1,7 @@
 # 😀 Hey, Welcome to my Github Page
 
+![Hello](./assets/art.svg)
+
 ## 😁 Who am I?
 My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'.
 
