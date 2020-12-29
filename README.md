@@ -2,8 +2,10 @@
 
 [View My Portfolio : ravimaurya.netlify.com](https://ravimaurya.netlify.com)
 
-![Hello](https://raw.githubusercontent.com/RaviMauryaHootowl/RaviMauryaHootowl/36e7dc145027827acd2b08d005f9ed23a4776a00/assets/art.svg)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RaviMauryaHootowl&show_icons=true&include_all_commits=true&theme=ayu-mirage" alt="Ravi's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RaviMauryaHootowl&layout=compact&theme=ayu-mirage" />
 
+<br><br>
 
 ## 😁 Who am I?
 My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'.
@@ -12,8 +14,8 @@ My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI
 **CODING!!**<br>**READING!!**<br>**CREATING!!**
 
 ## ✨ Skills
-* Javascript (Web Dev) (React)
-* Dart (Flutter)
+* Javascript/Typescript (Web Dev) (React/Electron)
+* Dart/Kotlin (Flutter/Android)
 * Python (ML, AI, Automation)
 * C++ (Competitive Coding) <br>
 etc...
@@ -21,9 +23,9 @@ etc...
 ## 💥 Best Projects
 * 🎨 [**Doodle & Design**](https://github.com/RaviMauryaHootowl/Doodle-Design) -  Realtime Drawing Collaboration Web App. *(JS, Sockets, React)*
 * 🤖 [**twAIn**](https://github.com/RaviMauryaHootowl/twAIn) - An AI that writes stories. *(JS, Flutter, Python)*
+* 📑 [**Taperback**](https://github.com/RaviMauryaHootowl/taperback) - A complete A-Z Ecommerce Website for Books. *(Typescript, React, MongoDB, Express)*
 * 📑 [**Turn the Tables**](https://github.com/RaviMauryaHootowl/Turn-The-Tables) - A Data Extration Web App that converts Images to Tables. *(JS, Flask, OpenCV)*
 * 📊 [**Covid19 Tracker**](https://github.com/RaviMauryaHootowl/Covid-19-Flutter) - A Flutter App to track the spread of Covid-19. *(Flutter)*
-* 📫 [**Owl Post**](https://github.com/RaviMauryaHootowl/Owl-Post) - An API Testing Web App - A Postman Clone *(React, JS)*<br>
 etc...
 
 ## 📞 Contact Me
