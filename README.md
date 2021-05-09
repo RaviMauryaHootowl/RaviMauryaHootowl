@@ -17,7 +17,8 @@ My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI
 * Javascript/Typescript (Web Dev) (React/Electron)
 * Dart/Kotlin (Flutter/Android)
 * Python (ML, AI, Automation)
-* C++ (Competitive Coding) <br>
+* C++ (Competitive Coding)
+* UI/UX Design <br>
 etc...
 
 ## 💥 Best Projects
