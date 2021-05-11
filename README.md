@@ -19,7 +19,7 @@ My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI
 * Python (ML, AI, Automation)
 * C++ (Competitive Coding)
 * UI/UX Design <br>
-etc...
+etc...<br>
 
 ## 💥 Best Projects
 * 🎨 [**Doodle & Design**](https://github.com/RaviMauryaHootowl/Doodle-Design) -  Realtime Drawing Collaboration Web App. *(JS, Sockets, React)*
