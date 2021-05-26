@@ -6,7 +6,8 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RaviMauryaHootowl&layout=compact&theme=ayu-mirage" />
 
 <br><br>
-![](https://komarev.com/ghpvc/?RaviMauryaHootowl&style=flat)
+![](https://komarev.com/ghpvc/?username=RaviMauryaHootowl&style=flat)
+
 ## 😁 Who am I?
 My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'.
 
