@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=RaviMauryaHootowl&style=flat)
 
 ## 😁 Who am I?
-My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'.
+My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'. Upcoming Software Developer Intern at D.E. Shaw India.
 
 ## 👨‍💻 Passionate about?
 **CODING!!**<br>**READING!!**<br>**CREATING!!**
