@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=RaviMauryaHootowl&style=flat)
 
 ## 😁 Who am I?
-My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'. Upcoming Software Developer Intern at D.E. Shaw India.
+My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI, 23'. Incoming Software Developer Intern at D.E. Shaw India.
 
 ## 👨‍💻 Passionate about?
 **CODING!!**<br>**READING!!**<br>**CREATING!!**
@@ -23,9 +23,9 @@ My name is **Ravi Maurya**, pursuing Bachelor's in Infomation Technology at VJTI
 etc...<br>
 
 ## 💥 Best Projects
+* 📑 [**Taperback**](https://github.com/RaviMauryaHootowl/taperback) - A complete A-Z Ecommerce Website for Books. *(Typescript, React, MongoDB, Express)*
 * 🎨 [**Doodle & Design**](https://github.com/RaviMauryaHootowl/Doodle-Design) -  Realtime Drawing Collaboration Web App. *(JS, Sockets, React)*
 * 🤖 [**twAIn**](https://github.com/RaviMauryaHootowl/twAIn) - An AI that writes stories. *(JS, Flutter, Python)*
-* 📑 [**Taperback**](https://github.com/RaviMauryaHootowl/taperback) - A complete A-Z Ecommerce Website for Books. *(Typescript, React, MongoDB, Express)*
 * 📑 [**Turn the Tables**](https://github.com/RaviMauryaHootowl/Turn-The-Tables) - A Data Extration Web App that converts Images to Tables. *(JS, Flask, OpenCV)*
 * 📊 [**Covid19 Tracker**](https://github.com/RaviMauryaHootowl/Covid-19-Flutter) - A Flutter App to track the spread of Covid-19. *(Flutter)*
 etc...
