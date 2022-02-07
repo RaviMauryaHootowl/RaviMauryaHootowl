@@ -7,7 +7,8 @@
 ##### RECENT
 
 - ✨ Trying to create *RSOC: A simple programming language*. ~ https://rsoc.herokuapp.com/
-- 📖 Learning about WebAssembly
+- 📖 Learning about Cryptography
+- 🎨 Predending to be a UI/UX Designer too
 
 ##### BIO
 
