@@ -6,7 +6,7 @@
 
 ##### RECENT
 
-- ✨ Trying to create *RSOC: A silly programming language*. ~ https://rsoc.herokuapp.com/
+- ✨ Trying to create *RSOC: A silly(💖) programming language*. ~ https://rsoc.herokuapp.com/
 - 📖 Learning about Cryptography
 - 🎨 Predending to be a UI/UX Designer too
 
