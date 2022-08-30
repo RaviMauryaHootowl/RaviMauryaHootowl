@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Ravi Maurya, a 3rd Year Computer Science student at VJTI, Mumbai and Incoming Summer Intern at *DE Shaw India*.
+#### I'm Ravi Maurya, a Final Year Computer Science student at VJTI, Mumbai and Ex Summer Intern at *DE Shaw India*.
 ![githubheader](https://user-images.githubusercontent.com/59064326/147822595-17926b25-7bb8-42f0-af35-840d0af56164.png)
 
 
